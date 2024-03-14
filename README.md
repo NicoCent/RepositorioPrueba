@@ -1,4 +1,5 @@
 # PrimerRepositorio
 Este es el README.
 
-Primer cambio aaa
+Primer cambio en GitKraken
+Segundo cambio en GitHUB
